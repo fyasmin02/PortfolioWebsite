@@ -2,6 +2,7 @@
 
 This is what I learned from this project:
 
+```
 HTML (HyperText Markup Language)
 Basic structure of a webpage
 Creating headings, paragraphs, and lists
@@ -28,3 +29,4 @@ Debugging and troubleshooting issues
 Designing user-friendly and accessible websites
 Optimizing performance and loading times
 Responsive design for different screen sizes and devices
+```
